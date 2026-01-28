@@ -1,0 +1,50 @@
+O que estudar de python para engenheiro de dados:
+
+Para Engenharia de Dados, priorize assim:
+🔥 Essenciais (estude bem)
+
+Variables
+
+Data Types
+
+Strings
+
+Lists
+
+Dictionaries
+
+Sets (básico)
+
+If / Else
+
+For / While
+
+Functions
+
+Methods
+
+Try / Except
+
+Dates / Datetime
+
+JSON
+
+⚠️ Importantes, mas não bloqueiam início
+
+OOP (classes básicas)
+
+RegEx (leitura e uso)
+
+VirtualEnv
+
+Files (I/O)
+
+❌ Baixa prioridade no começo
+
+Match
+
+Decorators
+
+Advanced OOP
+
+Metaprogramming

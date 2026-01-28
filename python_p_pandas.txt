@@ -1,0 +1,25 @@
+O que estudar no w3schools para ir para pandas:
+
+✅ O que é necessário antes de Pandas (da lista da foto)
+
+Esses são obrigatórios ou quase:
+
+✅ Python Variables
+
+✅ Data Types
+
+✅ Strings (ok, você já está indo bem)
+
+✅ Lists
+
+✅ Dictionaries
+
+✅ Booleans
+
+✅ Operators
+
+✅ If...Else
+
+✅ For Loops
+
+✅ Functions
